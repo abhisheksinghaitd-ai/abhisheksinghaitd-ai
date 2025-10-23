@@ -34,6 +34,7 @@ Smart visitor management app for apartments — replacing paper entry logs.
 - Real-time visitor notifications with approve/reject  
 - Offline-ready data handling for guards and residents  
 
+---
 
 ### ⚡ Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
