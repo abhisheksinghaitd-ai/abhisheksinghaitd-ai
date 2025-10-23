@@ -2,6 +2,12 @@
 I'm Abhishek Singh — a Flutter developer passionate about building wellness and lifestyle apps that unify health data, habits, and personal insights.  
 I focus on creating seamless, dark-themed user experiences with glanceable dashboards, health tracking, and smart integrations powered by APIs and AI.
 
+### 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-singh-933467331)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhisheksinghaitd-ai)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheksinghaitd@gmail.com)
+
+
 ## 🚀 Featured Projects
 
 ### 🩺 Lifestyle Companion
