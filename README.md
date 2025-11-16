@@ -30,7 +30,7 @@ I focus on creating seamless, dark-themed user experiences with glanceable dashb
 
 ## 🚀 Featured Projects
 
-### 🩺 Lifestyle Companion
+### 🩺 HealthPilot AI
 A mobile wellness app unifying steps, sleep, habits, hydration, calories, and badges — all in one sleek dashboard.  
 
 **Tech:**  
